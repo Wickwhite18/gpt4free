@@ -16,3 +16,4 @@ aiohttp_socks
 cryptography
 python-multipart
 pypdf2
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
